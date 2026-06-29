@@ -1,0 +1,39 @@
+# Python / environments
+__pycache__/
+*.py[cod]
+env/
+.venv/
+venv/
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+
+# Temporary and generated folders
+tmp/
+results/
+output/
+data/
+reports/
+render_check/
+figure_pages/
+paper_rewriting_output/
+
+# Large packages / archives
+*.zip
+
+# Local backups
+*_backup.tex
+*_messed_backup.tex
+
+# Local report submissions / report source not published
+final_paper/*.pdf
+final_paper/main.tex
+final_paper/main_outline.tex
